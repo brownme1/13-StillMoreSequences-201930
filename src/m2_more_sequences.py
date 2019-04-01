@@ -11,17 +11,17 @@ for ITERATING through SEQUENCES, including selections from:
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
-         and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         and Morgan Brown.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
 def main():
     """ Calls the   TEST   functions in this module. """
     run_test_shortest_string()
-    run_test_index_of_largest_number()
-    run_test_number_of_stutters()
-    run_test_is_palindrome()
-    run_test_count_same()
+    #run_test_index_of_largest_number()
+    #run_test_number_of_stutters()
+    #run_test_is_palindrome()
+    #run_test_count_same()
 
 
 # -----------------------------------------------------------------------------
